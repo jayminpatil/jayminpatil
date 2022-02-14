@@ -7,10 +7,10 @@ Learner,Passionate about software and Full Stack Web development. Some technolog
 
 ┌──┤ Skill SET ├─────────▰▰▰
 │
-├─▣ 
-├─▣ 
-├─▣ 
-├─▣ 
+├─▣ C++, JavaScript, HTML5, CSS, 
+├─▣ MongoDB, Express(.js), React(.js), Node(.js), Next(.js)
+├─▣ Third Web, Sanity(.io)
+├─▣ Git, GitHub
 │
 └─────────────────────▰▰▰
 
@@ -26,5 +26,4 @@ Learner,Passionate about software and Full Stack Web development. Some technolog
 ├─◈ <a href="https://exquisitenfts.vercel.app/">NFTMarketplace</a>
 └─────────────────────▰▰▰
 
-```
 </pre>
