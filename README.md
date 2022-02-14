@@ -18,7 +18,7 @@ Learner,Passionate about software and Full Stack Web development. Some technolog
 │
 ├─◈ <a href="mailto:jayminpatil123@gmail.com">Mail</a>
 ├─◈ <a href="https://twitter.com/JayminPatil">Twitter</a>
-├─◈ <a href="hhttps://www.linkedin.com/in/jayminpatil/">LinkedIn</a>
+├─◈ <a href="https://www.linkedin.com/in/jayminpatil/">LinkedIn</a>
 └──────────────────────▰▰▰
 
 ┌──┤ PROJECTS ├──────▰▰▰
