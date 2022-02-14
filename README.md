@@ -2,13 +2,27 @@
 
 <img src="https://github.com/jayminpatil/jayminpatil/blob/main/Jaymin%20Patil.png" alt="Open source enthusiast,
 Learner,Passionate about software and Full Stack Web development. Some technologies I enjoy working with include">
-Open source enthusiast,
-Learner,
-Passionate about software and Full Stack Web development. 
-Some technologies I enjoy working with include 
 
 
-## Find me around the web 🌎: <a href="https://github.com/sponsors/M0nica"><img align="left" width="150" height="150" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
-- Learning in public on <a href="https://www.twitch.tv/blacktechdiva">Twitch</a> or <a href="https://www.monica.dev">monica.dev</a> 📹 ✍🏾
-- Tinkering with interactions on <a href="https://codepen.io/m0nica"> Codepen</a> 🏓
-- Sharing updates on <a href="https://www.linkedin.com/in/monicampowell/">LinkedIn</a> 💼
+
+┌──┤ Skill SET ├─────────▰▰▰
+│
+├─▣ Front-end Developer
+├─▣ Open Source Enthusiast
+├─▣ <a href="https://pratyushjain.vercel.app/">My Portfolio</a>
+├─▣ I am mostly available at <a href="https://www.linkedin.com/company/404enigma/">404Enigma</a>
+│
+└─────────────────────▰▰▰
+
+┌──┤ SOCIAL ├─────────▰▰▰
+│
+├─◈ <a href="mailto:jayminpatil123@gmail.com">Mail</a>
+├─◈ <a href="https://twitter.com/JayminPatil">Twitter</a>
+├─◈ <a href="hhttps://www.linkedin.com/in/jayminpatil/">LinkedIn</a>
+└──────────────────────▰▰▰
+
+┌──┤ PROJECTS ├──────▰▰▰
+│
+├─◈ <a href="https://exquisitenfts.vercel.app/">NFTMarketplace</a>
+└─────────────────────▰▰▰
+</pre>
