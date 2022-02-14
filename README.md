@@ -1,10 +1,10 @@
 # Hi, I'm Jaymin 👋
 
-<img src="https://github.com/jayminpatil/jayminpatil/blob/main/Jaymin%20Patil.png" alt="Open source enthusiast,
+<img src="https://github.com/jayminpatil/jayminpatil/blob/main/asdf.png" alt="Open source enthusiast,
 Learner,Passionate about software and Full Stack Web development. Some technologies I enjoy working with include">
 
 
-
+```
 ┌──┤ Skill SET ├─────────▰▰▰
 │
 ├─▣ 
@@ -25,4 +25,6 @@ Learner,Passionate about software and Full Stack Web development. Some technolog
 │
 ├─◈ <a href="https://exquisitenfts.vercel.app/">NFTMarketplace</a>
 └─────────────────────▰▰▰
+
+```
 </pre>
