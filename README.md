@@ -7,7 +7,7 @@ Learner,Passionate about software and Full Stack Web development. Some technolog
 
 ┌──┤ Skill SET ├─────────▰▰▰
 │
-├─▣ C++, JavaScript, HTML5, CSS, 
+├─▣ C++, JavaScript, HTML5, CSS, TailwindCSS
 ├─▣ MongoDB, Express(.js), React(.js), Node(.js), Next(.js)
 ├─▣ Third Web, Sanity(.io)
 ├─▣ Git, GitHub
