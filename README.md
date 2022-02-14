@@ -1,6 +1,6 @@
 # Hi, I'm Jaymin 👋
 
-<img src="https://github.com/jayminpatil/jayminpatil/blob/main/Jaymin%20Patil%20(2).png" alt="banner that says Monica Powell - software engineer, content creator and community organizer alongside a cartoon illustration of Monica">
+<img src="https://github.com/jayminpatil/jayminpatil/blob/main/Jaymin%20Patil.png" alt="banner that says Monica Powell - software engineer, content creator and community organizer alongside a cartoon illustration of Monica">
 Open source enthusiast,
 Learner,
 Passionate about software and Full Stack Web development. 
